@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54ACD2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/ASP.NET 4.0.png</url>
+                <title>ASP.NET 4.0</title>
+                <filesize>355658</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/Comunicaciones y redes de computadores.png</url>
+                <title>Comunicaciones y redes de computadores</title>
+                <filesize>356114</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/Estructura de datos.png</url>
+                <title>Estructura de datos</title>
+                <filesize>454730</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/Fundamentos de redes.png</url>
+                <title>Fundamentos de redes</title>
+                <filesize>483920</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/java como aprender a programar 7 edicion deitel.png</url>
+                <title>java como aprender a programar 7 edicion deitel</title>
+                <filesize>363549</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/mantenimiento y reparacion.png</url>
+                <title>mantenimiento y reparacion</title>
+                <filesize>643410</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/Programacion en java.png</url>
+                <title>Programacion en java</title>
+                <filesize>320623</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/Redes de computadoras.png</url>
+                <title>Redes de computadoras</title>
+                <filesize>576481</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/Sistemas operativos.png</url>
+                <title>Sistemas operativos</title>
+                <filesize>290465</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/SQL Server 2005.png</url>
+                <title>SQL Server 2005</title>
+                <filesize>275270</filesize>
+            </Image>
+            <Image>
+                <url>H:/Nueva carpeta/1.DAM/Visual C# 2010.png</url>
+                <title>Visual C# 2010</title>
+                <filesize>354379</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
