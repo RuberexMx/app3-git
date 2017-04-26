@@ -5,10 +5,10 @@
 	id ="com.phonegap.example2"
 	version ="1.0.0">
 	
-   <name> app2 TelefoniaCelular </name>
+   <name> app3 BibliotecaEscolar </name>
    
     <description>
-	 aplicacion que muestra informacion sobre la telefonia celular
+	 aplicacion que muestra informacion sobre la biblioteca escolar
 	</description>
 	
 	<author href="https://build.phonegap.com" email="barbosacruzruben@gmail.com">
@@ -34,7 +34,7 @@
 	
 <!-- Para acceder a paginas de internet -->
 <allow-internet href="https://*/*"/>
-<acces origin"https://*/*"/>
+<acces origin="https://*/*"/>
 <alow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
